@@ -1,0 +1,39 @@
+{
+  "objects": [
+    {
+      "brand": "BMW X5",
+      "color": "grey",
+      "gearbox": "automatic",
+      "year": 2011
+	  "_cleared": "true"
+    },
+    {
+      "brand": "Renault Megane",
+      "color": "white",
+      "gearbox": "manual",
+      "year": 2012
+	  "_cleared": "false"
+    },
+    {
+      "brand": "Nissan Juke",
+      "color": "red",
+      "gearbox": "automatic",
+      "year": 2015
+	  "_cleared": "false"
+    },
+    {
+      "brand": "Volkswagen Touran",
+      "color": "black",
+      "gearbox": "manual",
+      "year": 2010
+	  "_cleared": "true"
+    },
+    {
+      "brand": "Hyundai Tiburon",
+      "color": "green",
+      "gearbox": "manual",
+      "year": 2000 
+	  "_cleared": "true"
+    }
+  ]
+}
